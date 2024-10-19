@@ -1,12 +1,15 @@
 <script>
 	export let data;
-	import { Button } from '$lib/components/ui/button';
+	import Bio from '$lib/components/layout/bio/Bio.svelte';
+	import Prose from '$lib/components/layout/Prose.svelte';
+	import About from '../content/about.md';
 
 	const { name } = data;
 </script>
 
-<h1>Hello {name ? name : 'World'}</h1>
-<p>
-	Visit <Button variant="link" href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</Button> to read
-	the documentation
-</p>
+<div class="w-full h-full justify-start items-start gap-20 inline-flex">
+	<Bio />
+	<Prose>
+		<About />
+	</Prose>
+</div>
