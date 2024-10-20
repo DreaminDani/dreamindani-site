@@ -20,7 +20,7 @@
 		<!-- Title -->
 		<hgroup>
 			<h1 class="mb-0 text-foreground">{data.meta.title}</h1>
-			<p class="mt-1 text-muted-foreground">Published at {formatDate(data.meta.date)}</p>
+			<p class="mt-1 text-muted-foreground">Published on {formatDate(data.meta.date)}</p>
 		</hgroup>
 
 		<!-- Tags -->

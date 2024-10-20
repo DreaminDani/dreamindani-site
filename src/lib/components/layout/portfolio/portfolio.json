@@ -1,0 +1,69 @@
+[
+    {
+      "image": "/img/portfolio/uw-suzzalo.jpg",
+      "url": "https://books.desandoval.net",
+      "logo": "/img/portfolio/uw-purple.jpg",
+      "color": "rgba(56,39,91,255)",
+      "inverted": false,
+      "title": "University of Washington",
+      "subtitle": "Academic Research",
+      "description": "Exploring Academic Access to Information: Human Centered Design and Engineering (HCDE)",
+      "active": false
+    },
+    {
+      "image": "/img/portfolio/dio-whiteboard.jpg",
+      "url": "https://www.figma.com/proto/A2DrAaHvGTJLm043fFI4Lx/Dani-Portfolio?page-id=0%3A1&node-id=222%3A50&viewport=570%2C189%2C0.35&scaling=contain&starting-point-node-id=222%3A50&hide-ui=1",
+      "logo": "/img/portfolio/dio-logo.png",
+      "color": "rgba(255,255,255,255)",
+      "inverted": true,
+      "title": "Discuss.io",
+      "subtitle": "UX Research & Design",
+      "description": "Building tools for qualitative researchers - guided by quant & qual",
+      "active": false
+    },
+    {
+      "image": "/img/portfolio/vmware.jpg",
+      "url": "https://tanzu.vmware.com/content/blog/streamline-your-teams-api-design-and-strategy-with-user-centered-documentation",
+      "logo": "/img/portfolio/vmware-pivotal-labs.png",
+      "color": "linear-gradient(90deg, rgba(29,66,138,1) 0%, rgba(255,255,255,1) 100%)",
+      "inverted": false,
+      "title": "VMware Pivotal Labs",
+      "subtitle": "Consulting & Facilitation",
+      "description": "Developing strategies for incorporating design onto balanced teams and across client contexts",
+      "active": false
+    },
+    {
+      "image": "/img/portfolio/chipper.jpg",
+      "url": "https://www.figma.com/proto/A2DrAaHvGTJLm043fFI4Lx/Dani-Portfolio?page-id=0%3A1&node-id=2%3A65&viewport=570%2C189%2C0.35&scaling=contain&starting-point-node-id=2%3A65&hide-ui=1",
+      "logo": "/img/portfolio/chipper-logo-white.png",
+      "color": "rgba(35, 39, 83, 1)",
+      "inverted": false,
+      "title": "Chipper Cash",
+      "subtitle": "Director of Design during Hypergrowth",
+      "description": "Built a diverse and inclusive team to design global equitable solutions",
+      "active": false
+    },
+    {
+      "image": "/img/portfolio/stemma.png",
+      "url": "/archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign.html",
+      "logo": "/img/portfolio/stemma-logo.png",
+      "color": "rgba(10, 25, 48, 1)",
+      "inverted": false,
+      "title": "Stemma/Teradata",
+      "subtitle": "Leading Design for the Data Domain",
+      "description": "Fostering a user-centered approach to data governance and open source tools",
+      "active": false
+    },
+    {
+      "image": "/img/portfolio/equall.png",
+      "url": "https://equall.com",
+      "logo": "/img/portfolio/equall-logo.png",
+      "color": "rgba(255, 255, 255, 1)",
+      "inverted": true,
+      "title": "Equall",
+      "subtitle": "Designing Frontier AI Systems for Law",
+      "description": "Combining machine learning techniques to a nuanced understanding of legal workflows",
+      "active": false
+    }
+  ]
+  

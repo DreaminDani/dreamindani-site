@@ -12,3 +12,5 @@ https://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
 
 # canonical redirects
 /talks/uxpa2023/index.xml /talks/uxpa2023/presentation/
+/archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign  /archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign.html
+/archive/diving-into-the-details-a-deeper-look-at-stemmas-redesign /archive/diving-into-the-details-a-deeper-look-at-stemmas-redesign.html
