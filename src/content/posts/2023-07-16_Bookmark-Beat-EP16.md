@@ -17,7 +17,7 @@ Over the last two weeks, I caught up and I'd love to share a few snippets of wha
 
 ---
 
-### An intro: On going blind
+## An intro: On going blind
 
 Most of you probably know this, but I've lost quite a bit of my vision. There are various versions of this story that I tell depending on how interested the person who asked me actually is in my diagnosis. But the short version is, "I lost most of my peripheral version due to an adverse reaction to a treatment of an eye disease called 'uveitis'. Now that treatment is under control, we're just trying our best to make sure it doesn't flare up and encourage the loss of my central vision."
 
@@ -31,7 +31,7 @@ What this means long term (either 10 years from now or 60) is I will likely lose
 
 So, anyway...
 
-### Let's talk about that "seat at the table"
+## Let's talk about that "seat at the table"
 
 Designers have a way of talking about the same thing every 6-18 months. From "should designers code?" to "advocating for UX Research", there's quite a few evergreen topics that #DesignTwitter (#DesignThreads?) likes to argue about. My personal favorite is "connecting Design to *The Business*".
 
@@ -45,14 +45,14 @@ This talk reminded me of a few other posts, some older than others:
 - [Has design become too dogmatic?](https://www.fastcompany.com/90854287/has-design-become-too-dogmatic) highlights how fighting against dogma can lead to more inclusive spaces that empower those who have been left out due to "best practices" - by Alba Villamil.
 - [Hey, Designers: Learn to Business](https://matthewoliphant.com/writing/hey-designers-learn-to-business) is a practical guide to learning how to talk to your peers outside of design. From business models to navigating difficult conversations, Matthew Oliphant recommends a number of must-reads!
 
-### Designing interactions
+## Designing interactions
 
 Speaking of practical things, I stumbled upon three fantastic resources about modern interaction design over the past few weeks:
 1. [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design) is a gorgeous walkthrough of common interaction patterns across touch screen and desktop environments. Rauno Freiberg, a design engineer with experience at both The Browser Company and Vercel, has made an excellent resource that I will continue to refer back to time and time again.
 2. [Modalz Modalz Modalz](https://modalzmodalzmodalz.com/) is a funny, yet genuine, diatribe against the oft-overused modal/dialog. In it, Adrian Egger argues against common uses for a modal and gives some alternatives for these situations.
 3. [Building Boba AI](https://martinfowler.com/articles/building-boba.html) is a retrospective on an AI prototype made by the folks at ThoughtWorks. Farooq Ali shares design patterns for interactions and code alike to build a more robust and satisfying interface for AI tools.
 
-### Now, here's some cool internet things
+## Now, here's some cool internet things
 
 The internet is full of wonderful resources and experiences that really only fit into one shared category: *Oh, that's cool!*
 

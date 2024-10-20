@@ -11,7 +11,7 @@ I'm back with another one 🥁🥳 This time, we're talking about preserving dig
 
 3, 2, 1 - let's jam! If you haven't already, subscribe on [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: Once you see it...
+## An intro: Once you see it...
 
 Sometimes design is about solving real problems for real people. Other times it's making things work in a way they've never worked before... but one thing is for sure, not matter what discipline of design you practice, once you start thinking like a designer it's *really* hard to stop.
 
@@ -23,7 +23,7 @@ Like the Matrix, once you see it, you can't really *un*see it.
 
 Anyway...
 
-### How might we preserve history?
+## How might we preserve history?
 
 Last week, I was turned onto [Discmaster](http://discmaster.textfiles.com/) - a layer on top of Archive.org, accessible from pretty much *any browser*, that lets you search all the archived CDs on the internet's largest archive.
 
@@ -49,7 +49,7 @@ But preservation is not just important for the digital world. We're now seeing h
 
 I, like many who grew up in Northern California, find myself mourning the loss of so many towns, homes and possessions that have burned up in the ever-expanding fire seasons. Yet, now that we have digitized so much, I wonder if what we consider lost has changed somewhat.
 
-### Now, for a hard shift in tone
+## Now, for a hard shift in tone
 
 Content design was in the news this week. There's been lots of conversation around a September blog post from one of Wix's lead UX writers, Jenni Nadler, [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f).
 
@@ -64,7 +64,7 @@ I have been on both sides of the argument between "error messages should be spec
 
 If you're wondering where to get started with improving copywriting, I highly recommend [The Content Design Book](https://contentdesign.london/store/the-content-design-book/), [Conversation Design](https://abookapart.com/products/conversational-design) or just [copybook.me](https://copybook.me/).
 
-### AI is just becoming another tool in our toolbox
+## AI is just becoming another tool in our toolbox
 
 It wouldn't be a Bookmark Beat if I didn't mention in AI at some point. It seems like half of my bookmarks nowadays are about AI in some way. In Sarah Drummond's [The future is what you think it is](https://sarahdrummond.medium.com/the-future-is-what-you-think-it-is-d7a54369ea32), the preeminent service designer uses Dall-E to generate images for UX storyboards.
 
@@ -84,7 +84,7 @@ Whether you're a designer, on a team with a designer, or a manager of designers,
 
 Now onto the...
 
-### Tweet of the week
+## Tweet of the week
 
 > hate when a job asks you to set “goals” 
 >

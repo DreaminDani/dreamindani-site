@@ -13,7 +13,7 @@ This week, I geek out about the latest sounds (yes, *sounds*) from the James Web
 
 If you vibe to this sort of sound, you can subscribe to updates via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: Surround sound... in SPACE!
+## An intro: Surround sound... in SPACE!
 
 If you follow me on Twitter, you've likely already seen [how excited I am](https://twitter.com/Dreamin_Dani/status/1564986003407998977) about the new [audio tracks that NASA released this week](https://webbtelescope.org/contents/news-releases/2022/news-2022-040.html). "A team of scientists, musicians, and a member of the blind and visually impaired community worked to adapt Webb’s data... to make Webb’s images and data understandable through sound – helping listeners create their own mental images."
 
@@ -27,7 +27,7 @@ Don't forget to scroll further down each page to read about what each sound repr
 
 Anyway...
 
-### Let's talk about Figma plugins
+## Let's talk about Figma plugins
 
 Ever since Figma announced its plugin API in 2019, developers have been finding clever ways to extend its functionality for designers, developers and anyone whose use-case Figma hadn't already been built for. One of the biggest niches in the plugin space has been in theming and design systems.
 
@@ -42,7 +42,7 @@ When I was writing this month's [Svelte Newsletter](https://svelte.substack.com/
 
 I'm so excited to see what folks make with these new foundational tools!
 
-### Speaking of foundations...
+## Speaking of foundations...
 
 There's been a lot of new design system content written this month! From [the story of the Nucleus design system](https://blog.nucleus.design/once-upon-a-time-nucleus/) to ZeroHeight's reflection on the [design of people systems](https://learninghub.zeroheight.com/hc/en-us/articles/8461756153499-Design-of-people-systems), it's been great to read about how teams have been dealing with the inevitable conflict that arises out of the shared goal of "building a shared design toolkit."
 
@@ -62,7 +62,7 @@ So, if you're curious, maybe check out a couple chapters of this one... it's wor
 
 Now let's get to the...
 
-### Tweet of the week
+## Tweet of the week
 
 > We built all of GitHub, with zero initial funding, with absolutely no grind culture of any kind, ever.
 >

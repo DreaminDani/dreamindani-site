@@ -13,7 +13,7 @@ This week, I'm geeking out about the *purpose* of user research within the conte
 
 If you rock to this rhythm, you can subscribe to updates via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: Dungeons in Dragons... IN SPACE
+## An intro: Dungeons in Dragons... IN SPACE
 
 Polygon covered, what they believe is, [Dungeons and Dragons\' weirdest setting, Spelljammer, then and now](https://www.polygon.com/23287045/dnd-spelljammer-playable-races-original-setting-cover-art-reveal-hydro74). In my opinion, Eberron is *way* weirder... but that's not the point. The point is there's going to be a table-top campaign that's basically a [Treasure Planet look-a-like](https://en.wikipedia.org/wiki/Treasure_Planet).
 
@@ -23,7 +23,7 @@ I love table top games. They're a great way to hang out with friends and exercis
 
 Anyway...
 
-### What's the point of a UX Research Team?
+## What's the point of a UX Research Team?
 
 That's what Jane Davis answers in her [recent blog post](https://janendavis.com/?p=35). I'm a sucker for two-by-twos (2x2s) and it's worth staring at this one for a long while. Having hired external research vendors, grown a research team, and helped facilitate self-serve research for product teams, I appreciate seeing how they compare on the level of "research expertise" and "organizational context" that comes along with these staffing decisions.
 
@@ -31,7 +31,7 @@ I agree that an internal team, with the right practices and priorities, can be s
 
 And, once a project was complete, Adam Fry-Pierce's guide on [The 3 Unbroken Chains for Org Alignment For Design Teams](https://medium.com/design-leadership-forum/simple-frameworks-to-provide-the-entire-organization-some-much-needed-foundation-and-consistency-e9ba6e52cb79) helped me bubble up insights gathered in research projects back to the design team, product teams and the rest of the organization.
 
-### But getting "buy in" is only half the work...
+## But getting "buy in" is only half the work...
 
 You then have to actually conduct the research. Whenever a new researcher came on board, I assigned [Just Enough Research](https://abookapart.com/products/just-enough-research) to them. If you haven't read it, stop reading this newsletter and buy it. It's one of the most important books for any designer, researcher or product-aligned person could read.
 
@@ -39,7 +39,7 @@ As a contrast to that fully-fleshed out book, [this post by Austin Z. Henley](ht
 
 Where UX strategy is all about communicating to "the business", UX *tactics* are more focused on getting folks on your team (like engineers) to understand what you're actually doing.
 
-### So let's do research right!
+## So let's do research right!
 
 It all starts with taking your time. In tech, we've become so used to doing things as fast as possible. "Move fast and break things" was the default ethos for so long that it's easy to forget how long it takes for our brain to work on things in the background.
 
@@ -59,7 +59,7 @@ I read through this guide with a pack of sticky notes and a MIDI keyboard - I re
 
 Here's your...
 
-### Tweet of the week
+## Tweet of the week
 
 > I wish more had been documented about the non-white male contributions to early design/UX et al. When I read "histories" they always perpetuate what was most visible, yet I know countless women and POC who have 20+ year-long careers that have been all but erased from the story.
 

@@ -17,7 +17,7 @@ But first, an intro...
 
 ---
 
-### An intro: Creative consumption
+## An intro: Creative consumption
 
 A couple weeks ago, I was asked by a friend what inspires me. They were looking for recommendations for books, websites or products that influenced the way I design or helped define my aesthetics. Yet, the first thing that came to mind wasn't design-related at all. Instead, I answered "fantasy and sci-fi novels!"
 
@@ -33,7 +33,7 @@ It's widely known that [reading increases empathy](https://www.scientificamerica
 
 Anyway...
 
-### Let's talk about your "why"
+## Let's talk about your "why"
 
 In [the last beat](https://dreamindani.com/posts/bookmark-beat-ep11/), I shared my hope that portfolios would either disappear or at least shift to be just as helpful for candidates as they are for hiring managers. But, as long as we still have them, I think it's important to also share the one piece of advice I consistently give when being asked to review a designer's portfolio...
 
@@ -64,7 +64,7 @@ In my experience, recruiters and hiring managers don't ear-mark your resume beca
 
 But first, you have to *define your "why"*. Then you can connect it to the mission of your current company to work on projects you truly care about - or, perhaps, use it to find the company that's the right fit for you!
 
-### Step 1: Discover what's already gotten you this far
+## Step 1: Discover what's already gotten you this far
 
 Designers are special creatures. We may not be the only profession that thinks visually, but we shouldn't discount that superpower of ours. If you've read (or at least skimmed) Abby Covert's [How to Make Sense of Any Mess](https://abbycovert.com/make-sense/) or Temple Grandin's [Visual Thinking](https://www.amazon.com/Visual-Thinking-Pictures-Patterns-Abstractions-ebook/dp/B09Q89CG86/), you'll already appreciate that visualizing something can be a great first step toward a solution.
 
@@ -85,7 +85,7 @@ From here, try to rephrase the "why" into something that you could put at the to
 
 Now it's time to...
 
-### Step 2: Connect the dots
+## Step 2: Connect the dots
 
 In Steve Job's famous [Stanford commencement speech](https://youtu.be/Hd_ptbiPoXM?t=463), he reflects on the choices he made in the past and how these choices influenced a key moment in the development of Apple computers:
 

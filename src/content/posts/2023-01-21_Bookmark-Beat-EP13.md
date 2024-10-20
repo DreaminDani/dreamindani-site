@@ -17,7 +17,7 @@ But first, an intro...
 
 ---
 
-### An intro: Everyone is a ~~Designer~~ Information Architect
+## An intro: Everyone is a ~~Designer~~ Information Architect
 
 This week, Abby Covert (the *amazing* author of [Stuck? Diagrams Help.](https://abbycovert.com/stuck/) and [How to Make Sense of Any Mess](https://www.howtomakesenseofanymess.com/)) wrote about how authors can leverage information architecture skills to make writing much *much* easier:
 
@@ -31,7 +31,7 @@ Whether you're organizing your kitchen or writing a book, it's important to reme
 
 Anyway...
 
-### Let's talk about my *other* newsletter
+## Let's talk about my *other* newsletter
 
 I've always been a proponent of open source software. In design school, I made posters about it. In my spare time, I would read (and [sometimes write](https://github.com/DreaminDani)) open source code to wrap my head around concepts that engineers would throw around. And I, like the billions of people in the world who use software every day, constantly reap the benefits of freely-available solutions to many of the world's problems.
 
@@ -51,7 +51,7 @@ Last year, I was invited by the amazing [Brittney Postma to talk about this jour
 
 TL;DR start with something you're interested in and [follow it to the nearest GitHub contribution](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github). You'll learn a lot and meet some lovely people along the way.
 
-### Now, check out these links!
+## Now, check out these links!
 
 I figured the best way to tie together this story with the rest of today's beat would be to go through all the posts of Svelte Newsletter's past and pull out the *most clicked links*.
 

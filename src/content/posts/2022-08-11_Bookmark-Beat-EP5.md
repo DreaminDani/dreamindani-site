@@ -13,7 +13,7 @@ This week, I'm sharing a bit about my experience with accessible video games, pr
 
 If you jam to this bop, you can subscribe to updates via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: Legible HUDs make me 😍
+## An intro: Legible HUDs make me 😍
 
 Last month, I beat Ratchet and Clank: A Rift Apart. Despite having a PS5 for a while, it took me a while to pick up this fantastic showcase of its "next generation" features. From the nuanced haptics and sound effects within the controller to the gorgeous reflections on in-game surfaces, I was impressed with how immersive this game felt - despite its cartoony shell. The other thing that impressed me was its [accessibility features](https://caniplaythat.com/2021/06/08/ratchet-clank-rift-apart-accessibility-review-can-i-play-that/)!
 
@@ -25,7 +25,7 @@ I'm really looking forward to the next big game on my wish list, [God of War Rag
 
 Anyway...
 
-### Let's talk about UX Research again
+## Let's talk about UX Research again
 
 [Last week](https://desandoval.net/posts/bookmark-beat-ep4/), I shared some links to help answer the question, "What's the point of a UX Research Team?" After reading this, one of this newsletter's subscribers shared an *amazing* post with me that I knew I had to share this week...
 
@@ -35,7 +35,7 @@ I've used a similar framework during portfolio presentations to describe how des
 
 What I love most about this article is its use of diagrams to communicate and frame the discussion...
 
-### And diagrams really do help!
+## And diagrams really do help!
 
 Over the last two weeks, I've been reading Abby Covert's book, [Stuck? Diagrams help.](https://abbycovert.com/stuck/) Readers of this newsletter might recognize Abby's name from her amazing work on [Practicing Information Architecture](https://abbycovert.com/practicing-ia/). In her most recent book, she defines a diagram as "a visual representation that helps someone" (and that "someone" can be *you*).
 
@@ -59,7 +59,7 @@ The amount of thought and care that goes into the tiniest of details reminds me 
 
 Now it's time for the...
 
-### Tweet of the week
+## Tweet of the week
 
 > A lot of new people working in tech are fixated on getting to work on consumer projects, but often times, the most interesting problems to solve are b2b tools that make people’s jobs/lives easier.
 

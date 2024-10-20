@@ -21,7 +21,7 @@ Now let's kick off the beat...
 
 ---
 
-### An intro: I love ski maps
+## An intro: I love ski maps
 
 This week, I stumbled upon [the website](https://jamesniehues.com/) of the artist, James Nieheus. Despite tumbling down mountains for most of my life (I snowboarded on and off from middle school through college), I never thought to look at who drew the beautiful maps that showed me the mountain's trails. Well, now I know! Apparently, Nieheus is _the trail map maker_.
 
@@ -33,7 +33,7 @@ This last season, I went to Winter Park a half a dozen times and I can't wait to
 
 Anyway...
 
-### Let's talk about layoffs
+## Let's talk about layoffs
 
 It's been a rough few months for the tech sector. At one point, I was at a restaurant here in Denver and overheard the table next to us talking about their experiences with layoffs. Not only had the person at the table lost her job, but all three of her roommates had been laid off from three large tech companies. Needless to say, if you work in tech, you or someone you know has lost their job.
 
@@ -57,7 +57,7 @@ In the past, I've talked about convincing leadership to invest in DE&I initiativ
 
 To those of you reading this that have been laid off recently. I'm truly sorry. Nothing I could write can solve the fundamental problem that caused this. The problem is that company boards are not measured on their ability to build good products are treat their employees well; they're measured on their ability to make the line go up.
 
-### But sometimes, good products can happen
+## But sometimes, good products can happen
 
 Sometimes it's because a team was left in their corner to listen to their users and build what they need. Other times, a corporate leader bucked the trend of group-think and pushed for a vision that others could rally around.
 

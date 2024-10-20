@@ -1,9 +1,11 @@
 <script>
 	import { Button } from '$lib/components/ui/button';
+
+	let { sticky = false } = $props();
 </script>
 
 <div
-	class="md:w-[168px] md:flex-col justify-center items-center gap-5 md:gap-3 inline-flex shrink-0 flex-row w-full"
+	class={`md:w-[168px] md:flex-col justify-center items-center gap-5 md:gap-3 inline-flex shrink-0 flex-row w-full ${sticky ? 'sticky top-[104px] z-20' : ''}`}
 >
 	<enhanced:img
 		class="h-[216px] object-cover relative rounded-full border dark:border-[var(--ring-offset)] max-w-[140px] md:max-w-[100%]"

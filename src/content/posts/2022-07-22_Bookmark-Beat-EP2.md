@@ -11,14 +11,14 @@ It's the second week of Bookmark Beat! A (mostly) weekly summary of my browser h
 
 If you find yourself nodding along to this beat, you can subscribe to updates via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: Paying for things is (still) too hard
+## An intro: Paying for things is (still) too hard
 Design is more than just the graphical interfaces we interact with every day. A lot of design (or lack thereof) is lurking under the surface... From APIs to SDKs, FTP servers to Mainframes, the world (and money, specifically) now runs on the speed of light (or, more accurately, fiber optic cables strung along the bottom of the ocean).
 
 It's for this reason that I loved reading [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/). This article covers all the ways that humans have tried to solve the problem of "sending money securely over the internet" - including all the ways that's gone horribly wrong. It's a great read... even if it is a bit technically dense at times 😅
 
 ---
 
-### There must be something in the water...
+## There must be something in the water...
 
 Because two of the newsletters I follow, Proof of Concept and The Beautiful Mess, posted about *customer profiles*.
 
@@ -28,7 +28,7 @@ In John Cutler's post, [TBM 30/52: The Customer Profile Trap](https://cutlefish.
 
 I like these ideas.
 
-### Have you reviewed your app/site for accessibility problems lately?
+## Have you reviewed your app/site for accessibility problems lately?
 
 Probably not. Fortunately, we have folks like Marcy Sutton to get the fire under our butts and show us, with screen recordings and all, how to audit a site from the comfort of our desktop browser. Check out her [Accessibility Review of kexp.org](https://testingaccessibility.com/accessibility-reviews/kexp), if you haven't already seen it.
 
@@ -79,7 +79,7 @@ Having the seconds on the clock helps me when I'm facilitating conversations and
 
 Let's wrap this up with the...
 
-### Tweet of the week
+## Tweet of the week
 
 > I am begging you to stop calling designs or business concepts "sexy"
 > ...

@@ -17,7 +17,7 @@ So today's Bookmark Beat will be about AI, how it affects designers and what we 
 
 ---
 
-### An intro: The writers are still on strike
+## An intro: The writers are still on strike
 
 I am an avid viewer of Late Night with Seth Meyers. Every week, I watch the monologues, A Closer Look and (sometimes) the interviews with guests. What I especially look forward to is the end-of-week YouTube exclusive that Meyers puts together called "Corrections". This 15-30 minute diatribe against the week's YouTube comments is as funny as it is nonsensical.
 
@@ -38,7 +38,7 @@ As you've probably guessed (likely based on [my previous post](https://dreaminda
 
 So, anyway...
 
-### Let's talk about AI
+## Let's talk about AI
 
 Since my last mention of AI [becoming just \"another tool in our toolbox\"](https://dreamindani.com/posts/bookmark-beat-ep10/#:~:text=AI%20is%20just%20becoming%20another%20tool%20in%20our%20toolbox), I've started to notice it creeping into my workflow more and more. Instead of searching for free placeholder images on Pixabay, I've started using [DALL-E to generate avatars and backgrounds](https://www.figma.com/community/plugin/1226950115999721586/DALL-E-Bro). Instead of making up variations on the same 3-5 placeholder texts I use for names, dates and locations, I've been using [GPT-3.5 to make them up instead](https://www.figma.com/community/plugin/1207913933994957698/FigGPT).
 
@@ -50,7 +50,7 @@ Governments have been [conducting comprehensive research](https://www.peren.gouv
 
 In the meantime, I wouldn't be surprised to see more bottoms-up policy and protections coming from society writ large. From "certified organic content" badges on blog posts to [\"style cloaks\" that can confuse AIs](https://arxiv.org/abs/2302.04222#) training on artists' work. At least I hope to see it - because we [can't count on our corporate overlords](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content) to fix it.
 
-### Will A.I. Become the New McKinsey?
+## Will A.I. Become the New McKinsey?
 
 To round out this section with a bit of a "how might we", I'd like to quote [this article](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey) from Ted Chiang in last week's New Yorker:
 
@@ -64,7 +64,7 @@ Towards the end of the article, Ted writes:
 
 As a designer, I recognize that I may not always have the power to influence "business decisions". But what I can do is make more human-centered decisions easier to choose than the ones that an AI auto-generates for leaders. At the moment, I believe the only way to do that is to understand these tools, instead of waiting for them to be used against me.
 
-### Now let's listen to some music
+## Now let's listen to some music
 
 I've been loving the YouTube recommendations folks have sent me over the last few weeks. From music to video games, there's a lot I wanted to share in this beat:
 - [Pink Floyd - Live at Pompeii](https://www.youtube.com/watch?v=tJUhK8IqSu0&list=PLyGHs2yXwu1S_JEOpW3vlFeXFla449SLs&index=3) is a 4k remaster of Pink Floyd's phenomenal 1974 theatrical release. I had never seen it before and now I can't stop watching it!

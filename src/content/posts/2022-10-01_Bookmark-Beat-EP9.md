@@ -13,7 +13,7 @@ October is set to be a super busy month, with lots of travel and concerts, so if
 
 If you haven't already signed up, you can get the Bookmark Beat straight in your inbox via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: That humming in the background
+## An intro: That humming in the background
 
 My buddy, ex-bandmate and all around great human, Iain, [mentioned Glenn Gould on Twitter](https://twitter.com/standingsays/status/1574256089016811522) the other day... and I couldn't help but track down the video in the tweet! Before this, the only Gould recording I had ever heard was an album of Chopin and Mendelssohn. And, every once in a while (like at around 1:00 in [this track](https://open.spotify.com/track/5oWl9PpS14RmcVPriMzQr2?si=1b75ac2664994b04)), I could hear a little hum or wavering breath - never quite knowing if it was a problem with the recording or just my ears being weird.
 
@@ -31,7 +31,7 @@ This feeling, which I would describe as a dissatisfaction *with* yet commitment 
 
 Anyway...
 
-### Computing can be creative too
+## Computing can be creative too
 
 With the latest round of AI rearing its ugly head in a new context (e.g. Dall-E 2, Midjourney, and the newcomer [Stable Diffusion](https://simonwillison.net/2022/Aug/29/stable-diffusion/)), I've been reflecting on how creatives have been leveraging advancement in technology to engage their audiences.
 
@@ -45,7 +45,7 @@ It was the creator of Galatea (Emily Short)'s blog, actually, that led me to [ye
 
 Both these articles remind me that, no matter how advanced tools become, it's how we *create with* them that really makes something *creative*. No computer is "creative" on its own, no matter how many scraped-without-permission images it was trained on.
 
-### If everything is a product, then what are we?
+## If everything is a product, then what are we?
 
 Another thing we, as humans, create is our sense of self. In America (and I'm sure many other [WEIRD countries](https://en.wikipedia.org/wiki/Psychology#WEIRD_bias)), a lot of ourselves is based on our work. At parties, it's usually the first question I'm asked, "what do you do?" and I try my best to explain how the pictures I draw - and the users I talk to - end up on the screens we use. It's usually in these same moments that I take split second to realize how *made up* the concept of a "career" is...
 
@@ -81,7 +81,7 @@ Alright. That heavy stuff is over. I've got some fun design stuff that I found t
 
 Now onto the...
 
-### ~~Tweet~~ Thread 🧵 of the week
+## ~~Tweet~~ Thread 🧵 of the week
 
 > [Here’s a thread](https://twitter.com/SadHillWill/status/1575371418220761088) I’ve been meaning to do for a long time about eye tracing and spatial orientation in Mad Max: Fury Road.
 > 
@@ -93,6 +93,6 @@ Now onto the...
 
 As promised last week, this newsletter was *a bit* more personal. I hope to do more of this - sharing how these bookmarks I've been saving reflect some underlying beliefs of mine.
 
-### So, if you found this interesting, or are thinking of someone who might enjoy reading, please [subscribe](https://bookmarkbeat.substack.com/?showWelcome=true) or share this newsletter!
+## So, if you found this interesting, or are thinking of someone who might enjoy reading, please [subscribe](https://bookmarkbeat.substack.com/?showWelcome=true) or share this newsletter!
 
 See ya next beat 🥁😎🥁

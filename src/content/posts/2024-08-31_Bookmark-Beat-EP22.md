@@ -15,44 +15,44 @@ But before we dive into those thoughts, let's check out those bookmarks...
 
 <br/>
 
-# "A" Section: This Month's Bookmarks
+## "A" Section: This Month's Bookmarks
 
-## [We don’t need a boss, we need a process](https://www.miriamsuzanne.com/2024/08/08/vision/) by Miriam Suzanne
+### [We don’t need a boss, we need a process](https://www.miriamsuzanne.com/2024/08/08/vision/) by Miriam Suzanne
 
 >We must become a team, united against our work. Our job, together, is to hone and curate that work towards the exclusive vision through continuous questioning and articulation.
 
-## [When eyesight fades and climbing provides comfort](https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/) by Lacrux
+### [When eyesight fades and climbing provides comfort](https://www.lacrux.com/en/videos/when-eyesight-fades-and-climbing-provides-comfort/) by Lacrux
 
 > When her vision began to deteriorate, Seneida found solace in climbing. But it wasn't until she found people like her through climbing that she finally learned to open up and accept her impairment. This film by Janelle Dransfield and Rachel Ross follows blind athlete and Black Diamond product developer Seneida Biendarra as she finds her way on the international competition stage.
 
-## [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/) by Eric Bailey
+### [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/) by Eric Bailey
 
 > We’ve put the most important thing first. We then **supply detail in an order that aids in understanding the main point**, and discard information that is irrelevant to the overall concept we’re trying to communicate and mood we’re trying to evoke.
 
-## [Copying is the way design works](https://matthewstrom.com/writing/copying/) by Matthew Ström
+### [Copying is the way design works](https://matthewstrom.com/writing/copying/) by Matthew Ström
 
 > Copying helped me develop as a designer without needing to go to design school. For lots of people too young for college-level design programs, or without the means to attend these schools or bootcamps, copying serves the same function.
 
-## [On Writing Well](https://zodvik.com/posts/on-writing-well/) by Nikhil Bafna
+### [On Writing Well](https://zodvik.com/posts/on-writing-well/) by Nikhil Bafna
 
 > Writing a technical document is surprisingly hard. That is not because of the skill to tell a story. It’s because writing forces a level of clarity that is easy to gloss over while thinking through a topic.
 
-## [Design doesn't have to end like this](https://www.jovo.design/writing/ai-and-design) by John Voss
+### [Design doesn't have to end like this](https://www.jovo.design/writing/ai-and-design) by John Voss
 
 > Not all jobs that _are_ created by AI will be as stable or well-compensated as the ones they replace. Today’s prompt engineers are yesteryear’s telephone operators. There will be a category of work supporting AI products — helping improve those products — until they can be operated without an intermediary.
 
-## [The time for designers to learn to code is now](https://piccalil.li/blog/the-time-for-designers-to-learn-to-code-is-now/) by Andy Bell
+### [The time for designers to learn to code is now](https://piccalil.li/blog/the-time-for-designers-to-learn-to-code-is-now/) by Andy Bell
 
 > That’s our job as designers. It’s not to pontificate over design tools and their ever expanding features; it’s to design things for people.
 
-## [The beauty and drama of video games and their clouds](https://www.eurogamer.net/the-beauty-and-drama-of-video-games-and-their-clouds) by Christian Donlan
+### [The beauty and drama of video games and their clouds](https://www.eurogamer.net/the-beauty-and-drama-of-video-games-and-their-clouds) by Christian Donlan
 
 > The act of seeing, of noticing. It's a scarlet thread that runs through his book, through the society, and through our conversation about games.
 
-## [Don't be results-oriented](https://www.simplermachines.com/dont-be-results-oriented/) by Nat Bennet and [Optimizing For Feelings](https://browsercompany.substack.com/p/optimizing-for-feelings) by The Browser Company
+### [Don't be results-oriented](https://www.simplermachines.com/dont-be-results-oriented/) by Nat Bennet and [Optimizing For Feelings](https://browsercompany.substack.com/p/optimizing-for-feelings) by The Browser Company
 
 These two are perfect companion pieces to each other. I won't quote them so as not to spoil the excellent writing of both.
-## Not articles: but cool things from the internet
+### Not articles: but cool things from the internet
 - [Wealth, shown to scale](https://mkorostoff.github.io/1-pixel-wealth/) is an interactive data exploration that shows how the richest people in the world's wealth measure up to basically everything
 - [Climate Zones](https://pudding.cool/2024/06/climate-zones/) is another interactive data visualization - this time focused on how unique climates are changing in places all around the globe
 - [all text in nyc](https://www.alltext.nyc/about) is a search engine that enables exploration of New York City's urban landscape through text.
@@ -70,7 +70,7 @@ That's it for this month's links! If that's not enough for you (or if you just w
 
 <br/>
 
-# "B" Section: What's the deal with details?
+## "B" Section: What's the deal with details?
 
 Since joining [Equall](https://equall.com) as its first full-time designer, I've realized just how much time designers and engineers spend talking about details when building software. While I am fully aware of the amount of detail in other professions - like the *sheer number* of numbers in Accounting or the consideration of the location for *every single pipe and cable* in Architecture - I'm still surprised by how often a question from myself or another "technical" team member can totally throw off the vibe of a meeting.
 
@@ -98,7 +98,7 @@ Maybe then we'll garner trust from people who have only been taught that the det
 
 <br/>
 
-# Coda: Books I'm reading
+## Coda: Books I'm reading
 
 Here's the books I've read (or am still reading) this month:
 

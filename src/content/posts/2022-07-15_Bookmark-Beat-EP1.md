@@ -11,7 +11,7 @@ Welcome to the Bookmark Beat! A (mostly) weekly summary of my browser history. A
 
 If you like this sort of thing, you can subscribe to updates via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro on leadership
+## An intro on leadership
 
 So, the [James Webb Space Telescope](https://www.nasa.gov/mission_pages/webb/main/index.html) launched this week. Its pictures are absolutely incredible! But an even more incredible part of the JWST is the story behind it... the New York Time's exposé on Gregory Robinson, [He Fixed NASA\'s Giant Space Telescope Reluctantly](https://www.nytimes.com/2022/07/11/science/greg-robinson-webb-telescope-nasa.html), tells a captivating story of one person's struggle to motivate others by building rapport and making room for mistakes.
 
@@ -19,13 +19,13 @@ So, the [James Webb Space Telescope](https://www.nasa.gov/mission_pages/webb/mai
 
 Anyway...
 
-### A bit about *my job*
+## A bit about *my job*
 
 I have [a new job now](https://www.linkedin.com/posts/dreamindani_startups-design-announcement-activity-6942183390968238080-osJL?utm_source=share&utm_medium=member_desktop). It's great! I'm learning a lot about a completely new domain... Data! I've had the pleasure of running a few user interviews and shadowing many others. One of the interview participants pointed us to [Uber\'s Databook](https://eng.uber.com/databook/) and, since then, I've been diving into the deep end with this resource and so many like it.
 
 But, one thing I've noticed so far is, just like many fields within computer science and technology, there's *a lot* of language... and it's not very consistent.
 
-###  It turns out most of designing something is understanding the thing in the first place!
+##  It turns out most of designing something is understanding the thing in the first place!
 
 Words are hard. They're also the foundational elements of our shared reality. By naming things we encapsulate the thing itself into a word or phrase that allows us to recall it. If we don't get our words right, we can't think about problems correctly or even have a chance to solve them!
 
@@ -34,7 +34,7 @@ So, I'm coming to terms with the concept of [Language/Market fit](https://review
 - https://bartoc.org/vocabularies?search=data 
 - https://schema.org/DataCatalog 
 
-### *but not a whole lot...*
+## *but not a whole lot...*
 
 Language can help us [build brands](https://www.soraunion.com/article/how-we-crafted-the-sora-brand), communicate ideas to our users and name variables/components in our design systems (as we all know, [naming things is hard](https://modulesunraveled.wistia.com/medias/24vgzflp9i)!). Speaking of which, I'm super excited to finish reading through Superfriendly's [Design System in 90 days](https://superfriendly.com/design-systems/books/design-system-90-days/). I think we can do it even faster at Stemma, since our team is so small 😉
 
@@ -50,7 +50,7 @@ Anyway, even if you disagree with me, I highly recommend reading [this Harvard K
 
 ---
 
-### Tweet of the week
+## Tweet of the week
 
 This one is a great thread to rabbit hole down…
 

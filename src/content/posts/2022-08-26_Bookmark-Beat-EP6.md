@@ -13,7 +13,7 @@ This week, I'm sharing tips on how to be a better advocate and assist Blind / Lo
 
 If you groove to this beat, you can subscribe to updates via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: A delicious drink to end the summer
+## An intro: A delicious drink to end the summer
 
 It's finally starting to cool down in Denver (where I live) and I've officially run out of the variety of whiskies I have in my bar. So I decided to try something new this week with the vodka that's been sitting in my freezer for months. This [Pear and Elderflower Collins](https://www.yummly.com/recipe/Pear-_-Elderflower-Collins-1986639) hit the spot!
 
@@ -23,7 +23,7 @@ It can be made with honey or simple syrup, but don't skimp on the liqueurs 😉 
 
 Anyway...
 
-### It's an astigmatism, not a stigma
+## It's an astigmatism, not a stigma
 
 [Last week](https://desandoval.net/posts/bookmark-beat-ep5/), I shared my experience as a low-vision gamer. Eventually, it's possible I'll go fully blind. This took a while to get used to... but what I found to be most difficult was to communicate to others what it's like to *lose vision*. The NYTimes' Video Series [I’m Going Blind. This Is What I Want You to See](https://www.nytimes.com/2022/08/16/opinion/blindness-retinitis-pigmentosa.html) is the closest I've seen to getting it right.
 
@@ -33,7 +33,7 @@ As a designer with a foot in both the seeing and not-seeing world, I've been try
 
 This is how I encountered [Sighted Guiding](https://www.guidedogs.org.uk/how-you-can-help/sighted-guiding-training/) which, like CPR training or learning how to identify the signs of a heart attack, is a practical skill that can help you feel more comfortable around a blind or low-vision person. I hope that, even if folks never have to use these skills, these sorts of classes can help fully-sighted individuals understand what it takes to move this world with a different capacity for vision and maybe, *just maybe*, create a more inclusive environment for those around them.
 
-### Speaking of inclusive environments...
+## Speaking of inclusive environments...
 
 What does it take to *make design crit work*¹? How does the *way we create documentation, mockups and expectations*² affect our relationship with the people who consume them? And how do we feel when all of our best intentions in these areas *fall apart*³?
 
@@ -60,7 +60,7 @@ There's some things I found this week that wouldn't fit into my rambling narrati
 
 Now let's get to the...
 
-### ~~Tweet~~ Thread of the week
+## ~~Tweet~~ Thread of the week
 
 > My son has set the house up with a Pi-Hole. It’s a raspberry pi running Ad blocking on the whole house’s network. 
 > 

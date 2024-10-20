@@ -7,11 +7,20 @@ async function getPosts() {
 
     for (const path in paths) {
         const file = paths[path]
-        const slug = '/posts/' + path.split('/').at(-1)?.replace('.md', '')
+        let slug = "";
+        if (file?.metadata?.slug) {
+            if (file?.metadata?.slug.startsWith('/')) {
+                slug = file.metadata.slug = file.metadata.slug.slice(1);
+            } else {
+                slug = file.metadata.slug;
+            }
+        } else {
+            slug = '/posts/' + path.split('/').at(-1)?.replace('.md', '')
+        }
 
         if (file && typeof file === 'object' && 'metadata' in file && slug) {
             const metadata = file.metadata
-            const post = { slug, ...metadata }
+            const post = { ...metadata, slug, path }
             post.published && posts.push(post)
         }
     }

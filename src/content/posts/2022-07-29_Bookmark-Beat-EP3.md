@@ -11,7 +11,7 @@ Welcome to the third week of the Bookmark Beat! A (mostly) weekly summary of my 
 
 If you think this beat is catchy, you can subscribe to updates via [Substack](https://bookmarkbeat.substack.com/?showWelcome=true)
 
-### An intro: Joni Mitchell makes me cry
+## An intro: Joni Mitchell makes me cry
 I woke up on Monday to a tweeted video that captured a moment I was very lucky to be alive for... Joni Mitchell performing again!
 
 Joni was joined on stage by Brandi Carlile to sing and play a couple of her hits - including the tear-jerking "Both Sides Now". The fine folks at the Newport Folk Festival released [an amazing recording of the performance](https://www.youtube.com/watch?v=jxiluPSmAF8) on Tuesday. Every time I watch it I cry. Something about Joni's gentle timbre, surrounded by a phenomenal group of musicians, makes me choke up half-way through the first verse.
@@ -20,7 +20,7 @@ Joni was joined on stage by Brandi Carlile to sing and play a couple of her hits
 
 Anyway...
 
-### I've been thinking about "professional development"
+## I've been thinking about "professional development"
 
 and how silly it is that we think of it as something separate from the work we do. The larger the company, the more likely there's a budget for you, called "prodev", that you can use to buy books, courses or even take time off work to *learn*. But, having worked at startups for most of my career, I've always found something a bit *off* about this sort of "mandatory fun".
 
@@ -30,7 +30,7 @@ And, it's not like our field makes it easy. There's new tools and technology all
 
 So, that's great news if you're coming from another field! You'll stand out much more against your fellow bootcamp applicants if you can actually work well with others and manage your own task list. And as you progress in these foundational skills, your "level of impact" will increase - leading to higher and higher roles - as described in Jing Jin's amazing post: [Career ladder from junior to director — guidance for UX professionals](https://bootcamp.uxdesign.cc/career-ladder-from-junior-to-director-guidance-for-ux-professionals-1b5f9b2bd6b8)
 
-### But what if there is a skills gap? Then what?
+## But what if there is a skills gap? Then what?
 
 If you're asking this question, you're probably a people manager. You've maybe seen progression in these foundational skills... or maybe it really is the "craft" skills that a certain employee is lacking in. I think it's important to actually take a step back and really identify the source of the problem. In [this oldie-but-a-goodie](http://www.nwlink.com/~donclark/leader/councel.html), Don Clark breaks down the common reasons why employees don't perform well:
 - Lack of Skills: This is mainly an employer responsibility — the need to supply training or learning opportunities. 
@@ -66,7 +66,7 @@ It's a great story and the playlist really packs a punch!
 
 Let's wrap this up with the...
 
-### Tweet of the week
+## Tweet of the week
 
 > I used DALL·E 2's inpainting feature to make a version of Eames Powers of Ten, leaving the prompts in to explain each of the 57 steps. #DALLE  @OpenAI #AI
 
