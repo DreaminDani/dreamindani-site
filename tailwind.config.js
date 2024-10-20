@@ -28,6 +28,9 @@ const config = {
 					DEFAULT: "hsl(var(--secondary) / <alpha-value>)",
 					foreground: "hsl(var(--secondary-foreground) / <alpha-value>)"
 				},
+				link: {
+					DEFAULT: "hsl(var(--link) / <alpha-value>)",
+				},
 				destructive: {
 					DEFAULT: "hsl(var(--destructive) / <alpha-value>)",
 					foreground: "hsl(var(--destructive-foreground) / <alpha-value>)"

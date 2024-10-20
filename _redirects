@@ -1,0 +1,14 @@
+# redirect blog posts
+http://desandoval.net/* https://dreamindani.com/:splat 301!
+https://desandoval.net/* https://dreamindani.com/:splat 301!
+http://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
+https://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
+
+# some old redirects
+/i-am           /iam
+/design-web     /portfolio
+/art-music      /portfolio
+/calendar       https://calendly.com/DreaminDani/30min
+
+# canonical redirects
+/talks/uxpa2023/index.xml /talks/uxpa2023/presentation/

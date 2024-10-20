@@ -5,7 +5,7 @@ type: "home"
 date: "2019-02-28"
 ---
 
-**People use digital tools everyday**. Those that are significant provide practical and navigable solutions to their users' problems. In order for user research and design to have any impact on software development, it must become directly involved with the tools and processes that developers use to build software.
+**People use digital tools every day**. Those that are significant provide practical and navigable solutions to their users' problems. In order for user research and design to have any impact on software development, it must become directly involved with the tools and processes that developers use to build software.
 
 When designers work closely with developers and remain open to feedback, we can work together to make building a usable, consistent, and accessible interface the easiest way to develop new software.
 

@@ -7,4 +7,4 @@
 
 <ModeWatcher />
 <Header />
-<main class="container mx-auto md:p-10 sm:p-2 sm:py-4">{@render children()}</main>
+<main class="container mx-auto md:p-10 p-2 py-4">{@render children()}</main>

@@ -8,7 +8,9 @@
 >
 	<div class="w-fit-content h-16 pl-4 pr-4 justify-start items-center gap-6 flex">
 		<div class="w-10 h-10 relative">
-			<a href="/"><img src="/avatar.png" alt="dreamindani avatar" /></a>
+			<a href="/" aria-label="back to home page"
+				><enhanced:img src="/static/avatar.png" alt="dreamindani avatar" /></a
+			>
 		</div>
 		<HeaderLink href="/">About</HeaderLink>
 		<HeaderLink href="/blog">Blog</HeaderLink>

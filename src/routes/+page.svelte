@@ -7,7 +7,13 @@
 	const { name } = data;
 </script>
 
-<div class="w-full h-full justify-start items-start gap-20 inline-flex">
+<head>
+	<title>About Me | Dani Sandoval</title>
+</head>
+
+<div
+	class="w-full h-full justify-start items-start md:gap-20 gap-12 inline-flex flex-col md:flex-row"
+>
 	<Bio />
 	<Prose>
 		<About />
