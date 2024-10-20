@@ -13,7 +13,7 @@
 			>
 		</div>
 		<HeaderLink href="/">About</HeaderLink>
-		<HeaderLink href="/blog">Blog</HeaderLink>
+		<HeaderLink href="/posts">Blog</HeaderLink>
 		<HeaderLink href="/portfolio">Portfolio</HeaderLink>
 	</div>
 	<div class="justify-start items-center gap-4 flex">

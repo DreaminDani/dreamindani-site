@@ -46,3 +46,10 @@ export const flyAndScale = (
 		easing: cubicOut
 	};
 };
+
+export function formatDate(date, dateStyle = 'medium', locales = 'en') {
+	// Safari is mad about dashes in the date
+	const dateToFormat = new Date(date)
+	const dateFormatter = new Intl.DateTimeFormat(locales, { dateStyle })
+	return dateFormatter.format(dateToFormat)
+}
