@@ -8,9 +8,10 @@ https://blog.desandoval.net/* https://desandoval.net/posts/:splat 301!
 /i-am           /iam
 /design-web     /portfolio
 /art-music      /portfolio
-/calendar       https://calendly.com/DreaminDani/30min
+/calendar       /book
 
 # canonical redirects
 /talks/uxpa2023/index.xml /talks/uxpa2023/presentation/
+/talks/uxpa2023/presentation/   https://dreamindani-my.sharepoint.com/:v:/p/me/EfGg71PKUZhKmM5liIzBnqABy3ftRY42itr1B1xQjB0H4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1fUMbB
 /archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign  /archive/more-than-a-makeover-a-behind-the-scenes-look-at-stemmas-redesign.html
 /archive/diving-into-the-details-a-deeper-look-at-stemmas-redesign /archive/diving-into-the-details-a-deeper-look-at-stemmas-redesign.html
