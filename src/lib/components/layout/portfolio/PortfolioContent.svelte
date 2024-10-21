@@ -6,7 +6,7 @@
 	const reversedList = portfolio.slice().reverse();
 </script>
 
-<div class="flex flex-col gap-4">
+<div class="flex flex-col gap-4 basis-2/5">
 	{#each reversedList as company}
 		<a
 			href={company.url}
