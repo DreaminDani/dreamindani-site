@@ -3,6 +3,8 @@
 	import ModeSwitcher from './ModeSwitcher.svelte';
 	import * as Sheet from '$lib/components/ui/sheet/index.js';
 	import { Button } from '$lib/components/ui/button';
+
+	let navigationMenuOpen = $state(false);
 </script>
 
 <div
@@ -18,7 +20,7 @@
 		<HeaderLink href="/posts">Blog</HeaderLink>
 		<HeaderLink href="/portfolio">Portfolio</HeaderLink>
 	</div>
-	<Sheet.Root>
+	<Sheet.Root bind:open={navigationMenuOpen}>
 		<Sheet.Trigger asChild let:builder>
 			<Button
 				variant="ghost"
@@ -30,10 +32,30 @@
 			<Sheet.Header class="mb-4">
 				<Sheet.Title>Navigation</Sheet.Title>
 			</Sheet.Header>
-			<Button href="/" variant="outline" class="w-full">About</Button>
-			<Button href="/posts" variant="outline" class="w-full">Blog</Button>
-			<Button href="/portfolio" variant="outline" class="w-full">Portfolio</Button>
-			<Button href="/iam" variant="outline" class="w-full">I Am...</Button>
+			<Button
+				on:click={() => (navigationMenuOpen = false)}
+				href="/"
+				variant="outline"
+				class="w-full">About</Button
+			>
+			<Button
+				on:click={() => (navigationMenuOpen = false)}
+				href="/posts"
+				variant="outline"
+				class="w-full">Blog</Button
+			>
+			<Button
+				on:click={() => (navigationMenuOpen = false)}
+				href="/portfolio"
+				variant="outline"
+				class="w-full">Portfolio</Button
+			>
+			<Button
+				on:click={() => (navigationMenuOpen = false)}
+				href="/iam"
+				variant="outline"
+				class="w-full">I Am...</Button
+			>
 		</Sheet.Content>
 	</Sheet.Root>
 	<div class="justify-start items-center gap-4 flex">
