@@ -1,6 +1,6 @@
 ---
 title: "Bookmark Beat: EP 24"
-description: TBD
+description: Life is for learning things together
 date: 2025-02-15
 keywords:
   - Bookmark Beat
