@@ -22,9 +22,13 @@
 			variant="link"
 			href="https://linktr.ee/dreamindani">@dreamindani</Button
 		>
-		<p class="text-lg text-muted-foreground/70">Head of Design</p>
-		<p class="text-lg text-muted-foreground/70 -mt-2 hover:text-muted-foreground">
-			<a href="https://equall.com" target="_blank">Equall</a>
+		<p class="text-sm text-muted-foreground/70 leading-tight text-center">
+			Principal Product Designer at
+			<a
+				href="https://clickhouse.com"
+				class="hover:text-muted-foreground hover:underline"
+				target="_blank">ClickHouse</a
+			>
 		</p>
 	</div>
 </div>
